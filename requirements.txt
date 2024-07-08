@@ -22,7 +22,7 @@ pypng
 albumentations
 transforms3d
 pyquaternion
-torchvision
+torchvision==0.15.2
 open3d
 fvcore
 tensorboardX
