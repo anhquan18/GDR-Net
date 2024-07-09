@@ -3,6 +3,9 @@ plyfile
 
 pycocotools  # or install the nvidia version which is cpp-accelerated
 
+chardet
+fastfunc
+loguru
 cffi
 ninja
 setproctitle
@@ -15,14 +18,12 @@ pytest
 ipdb
 tqdm
 numba
-mmcv
 imagecorruptions
-pyassimp==4.1.3  # 4.1.4 will cause egl_renderer SegmentFault
+#pyassimp==4.1.3  # 4.1.4 will cause egl_renderer SegmentFault
 pypng
 albumentations
 transforms3d
 pyquaternion
-torchvision==0.15.2
 open3d
 fvcore
 tensorboardX
