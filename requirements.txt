@@ -4,7 +4,6 @@ plyfile
 pycocotools  # or install the nvidia version which is cpp-accelerated
 
 chardet
-fastfunc
 loguru
 cffi
 ninja
